@@ -15,6 +15,8 @@ Pursuing consulting and freelance opportunities, collaborating on projects that 
 Sharing insights and exchanging ideas on the latest trends in DevOps, cloud innovation, and automation tools.
 💎 Let’s Build Something Extraordinary: Whether you seek to enhance performance, optimize infrastructure, or create scalable cloud solutions, I’m here to transform your vision into reality.</h3>
 
+- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="KrishVarma69" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/KrishVarma69](https://github.com/KrishVarma69)
