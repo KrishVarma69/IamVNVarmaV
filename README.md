@@ -4,18 +4,16 @@
 
 A seasoned expert in Configuration Management and Cloud Infrastructure, I excel in crafting cutting-edge solutions with AWS, Docker, Kubernetes, Terraform, and Ansible. With an eye for innovation, I specialize in designing resilient, scalable, and secure architectures that define operational excellence.
 
-✨ What I Bring to the Table:
-
-Transforming businesses with seamless automation and bespoke CI/CD pipelines, driving efficiency and precision.
+✨ What I Bring to the Table: Transforming businesses with seamless automation and bespoke CI/CD pipelines, driving efficiency and precision.
 Elevating cloud infrastructure with elegant, high-performing solutions tailored to unique requirements.
 Mentoring the next generation of DevOps professionals, inspiring excellence and innovation in the industry.
-🚀 Current Endeavors:
 
-Pursuing consulting and freelance opportunities, collaborating on projects that redefine automation, cloud technologies, and DevOps strategies.
+🚀 Current Endeavors: Pursuing consulting and freelance opportunities, collaborating on projects that redefine automation, cloud technologies, and DevOps strategies.
 Sharing insights and exchanging ideas on the latest trends in DevOps, cloud innovation, and automation tools.
+
 💎 Let’s Build Something Extraordinary: Whether you seek to enhance performance, optimize infrastructure, or create scalable cloud solutions, I’m here to transform your vision into reality.</h3>
 
-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="KrishVarma69" /> </p>
 
